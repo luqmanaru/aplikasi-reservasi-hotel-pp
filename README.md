@@ -20,7 +20,7 @@ Aplikasi reservasi kamar hotel berbasis C++ yang memungkinkan pengguna memilih j
 ```
 HOTEL FOUR SEASON
 ===========================================================
-Nama Anda              : Andi
+Nama Anda              : Hanif
 NPM Anda               : 12345678
 Kelas                  : TI-1A
 Kode Kamar [V/R/F]     : V
